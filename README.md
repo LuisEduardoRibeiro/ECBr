@@ -8,15 +8,12 @@ Obs.: É necessário a utilização da versão 1.4 ou mais recente do jQuery.
 
 <b>Exemplo</b>
 
-
-<pre>
-  <code>
-  $(function(){
-    // Elemento html: &lt;select id="estados" data-cidades="#cidades"&gt;&lt;/select&gt;
-    $("#estados").ECBr({
-      dEstado: "SP",
-      dCidade: "SAO PAULO"
-    });
+<pre><code>
+$(function(){
+  // Elemento html: &lt;select id="estados" data-cidades="#cidades"&gt;&lt;/select&gt;
+  $("#estados").ECBr({
+    dEstado: "SP",
+    dCidade: "SAO PAULO"
   });
-  </code>
-</pre>
+});
+</code></pre>
