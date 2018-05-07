@@ -1,5 +1,5 @@
 # ECBr
-Plugin jQuery que carrega estados e cidades do Brasil. 
+Plugin jQuery que carrega estados e cidades brasileiras. 
 
 Através de um arquivo JSON, que será salvo no local storage do browser, as cidades são carregadas no elemento html conforme selecionar o estado.
 
